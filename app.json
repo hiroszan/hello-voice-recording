@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "hello-voice-recording2",
-    "slug": "hello-voice-recording2",
+    "name": "hello-voice-recording",
+    "slug": "hello-voice-recording",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -13,9 +13,7 @@
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true
     },
